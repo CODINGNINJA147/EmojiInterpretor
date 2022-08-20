@@ -6,9 +6,9 @@ You can put the emoji in the input box or either you can select the emoji from t
 
 ## Concepts learned while making projects:
 
-React js
-Objects in javascript
-onClick()
-onChange()
-map()
-useState
+1.React js
+2.Objects in javascript
+3.onClick()
+4.onChange()
+5.map()
+6.useState
