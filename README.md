@@ -7,13 +7,8 @@ You can put the emoji in the input box or either you can select the emoji from t
 ## Concepts learned while making projects:
 
 * React js
-
 * Objects in javascript
-
-*onClick()
-
+* onClick()
 * onChange()
-
 * map()
-
 * useState
